@@ -1,0 +1,10 @@
+source;target;match_score;matches
+L F Koning;LF Koning;100;[{'score': 1.0, 'source': 'lf', 'target': 'lf'}, {'score': 1.0, 'source': 'koning', 'target': 'koning'}]
+L F Koning;L.F. Koning;100;[{'score': 1.0, 'source': 'lf', 'target': 'lf'}, {'score': 1.0, 'source': 'koning', 'target': 'koning'}]
+L F Koning;L. F. Koning;100;[{'score': 1.0, 'source': 'lf', 'target': 'lf'}, {'score': 1.0, 'source': 'koning', 'target': 'koning'}]
+L F Koning;Koning, LF;100;[{'score': 1.0, 'source': 'lf', 'target': 'lf'}, {'score': 1.0, 'source': 'koning', 'target': 'koning'}]
+L F Koning;Koning (LF);100;[{'score': 1.0, 'source': 'lf', 'target': 'lf'}, {'score': 1.0, 'source': 'koning', 'target': 'koning'}]
+L F Koning;Koning, L.;88;[{'score': 1.0, 'source': 'koning', 'target': 'koning'}, {'score': 0.5, 'source': 'lf', 'target': 'l'}]
+L F Koning;Koning, Lukas;80;[{'score': 1.0, 'source': 'koning', 'target': 'koning'}, {'score': 0.19999999999999996, 'source': 'lf', 'target': 'lukas'}]
+L F Koning;H.J. Koning;75;[{'score': 1.0, 'source': 'koning', 'target': 'koning'}, {'score': 0.0, 'source': 'lf', 'target': 'hj'}]
+L F Koning;E.A. Mastop;0;[{'score': 0.0, 'source': 'lf', 'target': 'ea'}, {'score': 0.0, 'source': 'koning', 'target': 'mastop'}]
